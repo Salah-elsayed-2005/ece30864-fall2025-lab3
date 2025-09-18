@@ -1,7 +1,7 @@
 a) Pros : Fast delivery of working software.  Continious development after the feedback.
    Cons : No long term planning.  Difficult to scale for large projects as subteams will get larger. Dependent alot on customer feedback.
 b) Scrum master : Coach and leads the team. Ensure smooth collaboration and integration.
-   Product owner: Define product and goals. Gives feedback on the delivered software. Represents stakeholder & customers.
+   Product owner: Define product and goals. Gives feedback on the delivered software. Represents stakeholder & customers. 
 c) Sprint Planning : Discuss what work will be done in the sprint. Explain how they will achieve it.
    Sprint review   : Demonstrate and show work done. Get stakeholder feedback.
    Sprint Retrospective: See what went well. Discuss what can be improved next sprint.

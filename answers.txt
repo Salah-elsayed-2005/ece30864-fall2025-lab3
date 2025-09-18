@@ -1,0 +1,2 @@
+a) Pros : Fast delivery of working software.   Continious development after the feedback.
+   Cons : No long term planning.  Difficult to scale for large projects as subteams will get larger. Dependent alot on customer feedback.

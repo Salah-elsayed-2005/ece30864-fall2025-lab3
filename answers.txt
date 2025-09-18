@@ -5,5 +5,10 @@ b) Scrum master : Coach and leads the team. Ensure smooth collaboration and inte
 c) Sprint Planning : Discuss what work will be done in the sprint. Explain how they will achieve it.
    Sprint review   : Demonstrate and show work done. Get stakeholder feedback.
    Sprint Retrospective: See what went well. Discuss what can be improved next sprint.
+d) Epic : Large body of work broken into smaller stories.
+   Story: A feature to be delivered to the end-user.
+   Bug  : An error in the product that needs fixing that may block a story.
+   Task : Represents a unit of technical or non-functional work.
+
 
 
